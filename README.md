@@ -1,10 +1,5 @@
-# Fun-Facts
-Android app
-
-This is a Android App created by Darshil Patel 
-
-July 2015
-
-Proudly Made in Canada
-
+# Alpha Facts
+##Alpha Facts shows you the craziest and funniest facts out there.
+#####Made in Canada.
+######July 2015.
 ![Alt text](screenshot.jpg?raw=true "Screenshot")
